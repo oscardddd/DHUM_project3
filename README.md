@@ -8,4 +8,4 @@ Qianli Dong
 Zexing Li
 Yelin Xu
 
-You might need the 8 txt files 
+You might need the 8 txt files to run the code
